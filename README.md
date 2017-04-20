@@ -5,4 +5,4 @@ About: Being human.
 
 Location: Planet Earth, Solar System, Milky Way.
 
-Time: Some time after the big bang.
+Date: Some time after the big bang.
